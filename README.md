@@ -1,6 +1,42 @@
-<img width="1024" height="512" alt="ducks_bg-1" src="https://github.com/user-attachments/assets/69f253ad-7448-4e29-abd6-a0ff91b54505" />
+<img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/c8673020-996b-4db6-9e0c-99fbea94fff6" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/17e1186f-7087-4b74-9a51-a8fcb17405c3" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/663b88f8-440e-4af0-9afd-0821c3f11375" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/a2d64969-39d2-44cf-bb23-c518a918a11a" /><img width="1024" height="512" alt="ducks_bg-1" src="https://github.com/user-attachments/assets/69f253ad-7448-4e29-abd6-a0ff91b54505" />
 
 # code101
 JavaScript code snippets
 
 **My first repository**
+
+### Список
+- Первый пункт
+- Второй пункт
+- Третий пункт
+
+### Ссылка
+[Что-то интересное](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F484981453617839371%2F&ved=0CBYQjRxqFwoTCICXzKLi95YDFQAAAAAdAAAAABA3&opi=89978449)
+
+### Таблица 2 на 3
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+| :--- | :--- | :--- |
+| Строка 1, ячейка 1 | Строка 1, ячейка 2 | Строка 1, ячейка 3 |
+| Строка 2, ячейка 1 | Строка 2, ячейка 2 | Строка 2, ячейка 3 |
+
+фрагмент кода на js
+```js
+
+console.log(`тык-тык`);
+
+```
+
+GIF
+
+<img width="180" height="320" alt="animation" src="https://github.com/user-attachments/assets/d067fae8-e0ae-41e4-9e67-4316a89b78ee" />
+
+
+
+
+
+
+
+
+
+
