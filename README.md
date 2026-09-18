@@ -1,4 +1,6 @@
-<img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/c8673020-996b-4db6-9e0c-99fbea94fff6" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/17e1186f-7087-4b74-9a51-a8fcb17405c3" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/663b88f8-440e-4af0-9afd-0821c3f11375" /><img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/a2d64969-39d2-44cf-bb23-c518a918a11a" /><img width="1024" height="512" alt="ducks_bg-1" src="https://github.com/user-attachments/assets/69f253ad-7448-4e29-abd6-a0ff91b54505" />
+<img width="180" height="320" alt="animation gif" src="https://github.com/user-attachments/assets/c8673020-996b-4db6-9e0c-99fbea94fff6" />
+
+<img width="1024" height="512" alt="ducks_bg-1" src="https://github.com/user-attachments/assets/69f253ad-7448-4e29-abd6-a0ff91b54505" />
 
 # code101
 JavaScript code snippets
